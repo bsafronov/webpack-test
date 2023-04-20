@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bsafronov/webpack-base#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.1",
     "webpack": "^5.80.0",
     "webpack-cli": "^5.0.1"
   },
